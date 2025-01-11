@@ -1,0 +1,12 @@
+Ok.  In file programText0.txt {, } brackets used right
+No. In file programTextWithMistakes.txt {, } brackets are not used right. There are mistakes
+Ok.  In file programText0.txt {, } brackets used right
+No. In file programTextWithMistakes.txt {, } brackets are not used right. There are mistakes
+Ok.  In file programText0.txt {, } brackets used right
+No. In file programTextWithMistakes.txt {, } brackets are not used right. There are mistakes
+Ok.  In file programText0.txt {, } brackets used right
+No. In file programTextWithMistakes.txt {, } brackets are not used right. There are mistakes
+Ok.  In file programText0.txt {, } brackets used right
+No. In file programTextWithMistakes.txt {, } brackets are not used right. There are mistakes
+Ok.  In file programText0.txt {, } brackets used right
+No. In file programTextWithMistakes.txt {, } brackets are not used right. There are mistakes
