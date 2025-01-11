@@ -1,0 +1,4 @@
+﻿  lab9_pointers.cpp
+C:\Documents\1 курс\ПнЯВУ\Repo\HighLevelProgramming-1s\lab9_pointers\lab9_pointers\lab9_pointers.cpp(5,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Documents\1 курс\ПнЯВУ\Repo\HighLevelProgramming-1s\lab9_pointers\lab9_pointers\lab9_pointers.cpp(115,20): warning C4018: '<': signed/unsigned mismatch
+  lab9_pointers.vcxproj -> C:\Documents\1 курс\ПнЯВУ\Repo\HighLevelProgramming-1s\lab9_pointers\lab9_pointers\x64\Debug\lab9_pointers.exe
